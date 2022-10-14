@@ -2,5 +2,7 @@
 
 ## Some initial steps after cloning the code
 Add the python module named `license` to the root directory of code.
-```touch license.py```
+```
+touch license.py
+```
 inside that `license.py` file, 

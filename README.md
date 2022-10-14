@@ -7,6 +7,6 @@ touch license.py
 ```
 inside that `license.py` file, place the your content to match your environment; this is an example/template to follow:
 ```
-user_key = '550d...NRAL'
+user_key = 'NRAK...GQQK'
 ```
 The code will need the value of the `user_key` variable throughout the code.
